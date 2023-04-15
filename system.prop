@@ -40,7 +40,7 @@ ro.fastbootd.available=true
 
 # Graphics
 debug.sf.enable_hwc_vds=0
-debug.sf.latch_unsignaled=0
+debug.sf.latch_unsignaled=1
 debug.renderengine.backend=skiaglthreaded
 persist.demo.hdmirotationlock=false
 persist.sys.sf.native_mode=0
